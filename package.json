@@ -16,6 +16,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "^20.3.3",
     "@types/react": "18.2.14",
     "sass": "^1.63.6",
     "swiper": "^10.0.3"
